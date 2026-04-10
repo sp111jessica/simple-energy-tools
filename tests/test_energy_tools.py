@@ -7,7 +7,7 @@ from energy_tools import calculate_energy, calculate_cost
 
 
 def test_calculate_energy():
-    assert calculate_energy(2, 5) == 10
+    assert calculate_energy(2, 5) == 12
 
 
 def test_calculate_cost():

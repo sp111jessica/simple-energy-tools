@@ -7,7 +7,7 @@ power usage and time.
 """
 
 
-def calculate_energy(power_kw: float, hours: float) -> float:
+def     calculate_energy(power_kw: float, hours: float) -> float:
     """
     Calculate energy consumption in kilowatt-hours (kWh).
 
